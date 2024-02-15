@@ -4,7 +4,12 @@
 
 
 
-<p align="left">📚 I'm currently learning the latest web development technologies and frameworks to stay at the forefront of the industry. Whether it's mastering JavaScript libraries like React or diving into server-side technologies like Node.js, I'm always striving to expand my knowledge.<br><br>🎯 Goals: My primary goal as a web developer is to create user-friendly, efficient, and visually stunning websites and web applications. I'm passionate about crafting digital experiences that not only meet the functional requirements but also delight users with a seamless and visually appealing design.<br><br>🌍 Travel enthusiast: When I'm not coding, I have a deep passion for traveling. Exploring new places, experiencing different cultures, and tasting exotic cuisines are some of my favorite pastimes. Traveling broadens my horizons and provides inspiration for my work as a web developer.</p>
+<p align="left">🚀 Continuously deepening my knowledge in web development, exploring the latest technologies and frameworks. Whether mastering JavaScript libraries like React or delving into server-side technologies like Node.js, I am always striving to expand my skills.
+</p>
+
+<p align="left"> 🎯 Goals: My primary goal as a web developer is to create user-friendly, efficient, and visually stunning websites and web applications. I'm passionate about crafting digital experiences that not only meet the functional requirements but also delight users with a seamless and visually appealing design.</p>
+
+<p align="left">🌍 Travel enthusiast: When I'm not coding, I have a deep passion for traveling. Exploring new places, experiencing different cultures, and tasting exotic cuisines are some of my favorite pastimes. Traveling broadens my horizons and provides inspiration for my work as a web developer.</p>
 
 ###
 
