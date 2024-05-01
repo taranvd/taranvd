@@ -4,12 +4,15 @@
 
 
 
-<p align="left">🚀 Continuously deepening my knowledge in web development, exploring the latest technologies and frameworks. Whether mastering JavaScript libraries like React or delving into server-side technologies like Node.js, I am always striving to expand my skills.
+<p align="left">
+🚀 I constantly deepen my knowledge in web development, focusing on the latest technologies and frameworks. My primary technology stack includes JavaScript and TypeScript, which I use to create dynamic and interactive web applications. I am proficient in the React frontend framework and its extension React Native for mobile application development, as well as Node.js, Express, and NestJS for building powerful and scalable server-side applications.
 </p>
 
-<p align="left"> 🎯 Goals: My primary goal as a web developer is to create user-friendly, efficient, and visually stunning websites and web applications. I'm passionate about crafting digital experiences that not only meet the functional requirements but also delight users with a seamless and visually appealing design.</p>
+<p align="left"> 🔗 Alongside web development, I am interested in exploring blockchain technologies. I am researching smart contracts and the Solidity programming language. I believe that understanding the principles of blockchain will enable me to implement innovative solutions and expand my capabilities as a developer.</p>
 
-<p align="left">🌍 Travel enthusiast: When I'm not coding, I have a deep passion for traveling. Exploring new places, experiencing different cultures, and tasting exotic cuisines are some of my favorite pastimes. Traveling broadens my horizons and provides inspiration for my work as a web developer.</p>
+<p align="left"> 🎯 My main goal as a web developer is to create user-friendly, efficient, and visually stunning websites and web applications. I am passionate about crafting digital products that not only meet functional requirements but also delight users with impeccable and visually appealing design.</p>
+
+<p align="left">🌍 Outside of work, I am an avid traveler. Exploring new places, experiencing different cultures, and sampling exotic cuisines are among my favorite pastimes. Travel broadens my horizons and inspires me to create unique solutions as a developer.</p>
 
 ###
 
@@ -21,6 +24,8 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
@@ -56,3 +61,7 @@
 
 
 ###
+
+
+
+
