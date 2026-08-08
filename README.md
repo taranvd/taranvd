@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Vladyslav 👋</h1>
 
 <p align="left">
-  <b>📍 Kyiv | Software Engineer @Cowchain</b>
+  <b>📍 Kyiv | Software Engineer</b>
 </p>
 
 <p align="left">
